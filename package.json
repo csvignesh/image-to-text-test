@@ -1,8 +1,9 @@
 {
-    "scripts": {
-        "test": "node test.js"
-    },
-    "dependencies": {
-        "image-to-text": "*"
-    }
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "image-to-text": "*",
+    "nodemailer": "^1.4.0"
+  }
 }
